@@ -1,0 +1,5 @@
+{
+    "cmake.configureOnOpen": true,
+    "editor.formatOnSave": true,
+    "clang-format.style": "file"
+}
