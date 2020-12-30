@@ -1,0 +1,12 @@
+{
+    "recommendations": [
+        "jeff-hykin.better-cpp-syntax",
+        "ms-vscode.cpptools",
+        "jbenden.c-cpp-flylint",
+        "austin.code-gnu-global",
+        "xaver.clang-format",
+        "llvm-vs-code-extensions.vscode-clangd",
+        "twxs.cmake",
+        "ms-vscode.cmake-tools",
+    ]
+}
